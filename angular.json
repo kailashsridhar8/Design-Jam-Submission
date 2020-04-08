@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "SVCECoffeeBeans"
+    }
+  },
+  "defaultProject": "SVCECoffeeBeans",
+  "cli": {
+    "analytics": "6c22c20d-a2b2-4151-a7e2-5bf9a0750415"
+  }
 }
